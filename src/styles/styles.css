@@ -1,0 +1,21 @@
+@import "~normalize.css";
+@import "font.css";
+
+body {
+    font-family: 'OpenSans';
+}
+.container {
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+.logo {
+    background-image: url("../assets/1.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+}
